@@ -1,0 +1,6 @@
+module main
+typeinfo appmain.qmltypes
+prefer :/qt/qml/main/
+Main 254.0 Main.qml
+depends QtQuick
+

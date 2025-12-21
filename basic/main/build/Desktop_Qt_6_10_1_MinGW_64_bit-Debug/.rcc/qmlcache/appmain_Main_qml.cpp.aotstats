@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "C:/Users/17367/Desktop/QT/basic/main/Main.qml"
+                }
+            ],
+            "moduleId": "main(appmain)"
+        }
+    ]
+}

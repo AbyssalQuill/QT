@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Qt/6.10.1/mingw_64/include",
+                "C:/Qt/6.10.1/mingw_64/include/QtQml",
+                "C:/Qt/6.10.1/mingw_64/include/QtCore",
+                "C:/Qt/6.10.1/mingw_64/include/QtQmlIntegration",
+                "C:/Qt/6.10.1/mingw_64/include/QtNetwork",
+                "C:/Qt/6.10.1/mingw_64/include/QtQuick",
+                "C:/Qt/6.10.1/mingw_64/include/QtGui",
+                "C:/Qt/6.10.1/mingw_64/include/QtOpenGL",
+                "C:/Qt/6.10.1/mingw_64/mkspecs/win32-g++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Qt\\Tools\\mingw1310_64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

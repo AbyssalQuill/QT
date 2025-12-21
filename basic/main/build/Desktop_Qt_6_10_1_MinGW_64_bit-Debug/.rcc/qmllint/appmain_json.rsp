@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Users/17367/Desktop/QT/basic/main/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+C:/Users/17367/Desktop/QT/basic/main/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_main.qrc
+--resource
+C:/Users/17367/Desktop/QT/basic/main/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appmain_raw_qml_0.qrc
+C:/Users/17367/Desktop/QT/basic/main/Main.qml
+--json
+C:/Users/17367/Desktop/QT/basic/main/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appmain_qmllint.json

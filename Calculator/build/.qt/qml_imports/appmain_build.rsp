@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/17367/Desktop/QT/Calculator/main
+-cmake-output
+-output-file
+C:/Users/17367/Desktop/QT/Calculator/build/.qt/qml_imports/appmain_build.cmake
+-importPath
+C:/Users/17367/Desktop/QT/Calculator/build/main
+-importPath
+C:/Users/17367/Desktop/QT/Calculator/build
+-importPath
+C:/Qt/6.10.1/mingw_64/qml
+-qrcFiles
+C:/Users/17367/Desktop/QT/Calculator/build/.qt/rcc/qmake_main.qrc
+C:/Users/17367/Desktop/QT/Calculator/build/.qt/rcc/appmain_raw_qml_0.qrc

@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Users/17367/Desktop/QT/Calculator/build
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+C:/Users/17367/Desktop/QT/Calculator/build/.qt/rcc/qmake_main.qrc
+--resource
+C:/Users/17367/Desktop/QT/Calculator/build/.qt/rcc/appmain_raw_qml_0.qrc
+C:/Users/17367/Desktop/QT/Calculator/main/Main.qml
+--json
+C:/Users/17367/Desktop/QT/Calculator/build/appmain_qmllint.json

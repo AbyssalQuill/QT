@@ -1,0 +1,10 @@
+-I
+C:/Users/17367/Desktop/QT/basic/build
+-I
+C:/Qt/6.10.1/mingw_64/qml
+--resource
+C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc
+--resource
+C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc
+--module
+main

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_appmain_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_main.cpp"
+  ".rcc/qmlcache/appmain_Main_qml.cpp"
+  ".rcc/qmlcache/appmain_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appmain_qmlcache_loader.cpp"
+  "CMakeFiles/appmain_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appmain_autogen.dir/ParseCache.txt"
+  "appmain_autogen"
+  "CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj"
+  "CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj.d"
+  "CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj"
+  "CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj.d"
+  "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj"
+  "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj.d"
+  "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj"
+  "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj.d"
+  "CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj"
+  "CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj.d"
+  "CMakeFiles/appmain.dir/main.cpp.obj"
+  "CMakeFiles/appmain.dir/main.cpp.obj.d"
+  "appmain.exe"
+  "appmain.exe.manifest"
+  "appmain.pdb"
+  "appmain_autogen/mocs_compilation.cpp"
+  "appmain_autogen/timestamp"
+  "appmain_qmltyperegistrations.cpp"
+  "libappmain.dll.a"
+  "main/appmain.qmltypes"
+  "meta_types/appmain_json_file_list.txt"
+  "meta_types/appmain_json_file_list.txt.timestamp"
+  "meta_types/qt6appmain_metatypes.json"
+  "meta_types/qt6appmain_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appmain.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

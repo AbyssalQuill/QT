@@ -1,0 +1,14 @@
+{
+    "cmake.sourceDirectory": "C:/Users/17367/Desktop/QT/basic/main",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.intelliSenseEngine": "default",
+    "files.associations": {
+        "*.qml": "qml",
+        "*.qrc": "xml",
+        "*.pro": "plaintext"
+    },
+    "emmet.includeLanguages": {
+        "qml": "html"
+    }
+}

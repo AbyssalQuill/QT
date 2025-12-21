@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/main/">
+    <file alias="Main.qml">C:/Users/17367/Desktop/QT/Calculator/main/Main.qml</file>
+  </qresource>
+</RCC>
+
