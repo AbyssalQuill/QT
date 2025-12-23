@@ -22,6 +22,9 @@ qt_add_qml_module(appmain
     URI main
     QML_FILES
         Main.qml
+        RainbowGradient.qml
+        Rectan.qml
+        MyRectangle.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

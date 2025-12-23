@@ -6,308 +6,620 @@
                 {
                     "entries": [
                         {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "limitInputLength",
+                            "line": 26,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "formatNumber",
+                            "line": 34,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 430,
+                            "durationMicroseconds": 606,
                             "functionName": "fill",
-                            "line": 25,
+                            "line": 57,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 133,
+                            "functionName": "fill",
+                            "line": 73,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 19,
+                            "column": 23,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 36,
+                            "line": 84,
                             "message": "Could not find property \"text\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 34,
+                            "column": 38,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalAlignment",
-                            "line": 39,
+                            "line": 87,
                             "message": "Could not find property \"horizontalAlignment\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 88,
+                            "message": "Could not find property \"verticalAlignment\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 32,
                             "durationMicroseconds": 0,
-                            "functionName": "verticalAlignment",
-                            "line": 40,
-                            "message": "Could not find property \"verticalAlignment\"."
+                            "functionName": "onTextChanged",
+                            "line": 94,
+                            "message": "Could not find signal \"textChanged\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 82,
+                            "message": "Could not find property \"fill\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 62,
+                            "line": 132,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 215,
-                            "functionName": "color",
-                            "line": 59,
+                            "column": 37,
+                            "durationMicroseconds": 145,
+                            "functionName": "preferredHeight",
+                            "line": 106,
+                            "message": "Cannot access value for name width"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 133,
+                            "functionName": "text",
+                            "line": 112,
                             "message": "Cannot access value for name clearButton"
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 81,
-                            "message": "Could not find signal \"clicked\"."
+                            "column": 23,
+                            "durationMicroseconds": 62,
+                            "functionName": "font",
+                            "line": 113,
+                            "message": "Cannot access value for name clearButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 271,
+                            "functionName": "horizontalAlignment",
+                            "line": 115,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 195,
+                            "functionName": "verticalAlignment",
+                            "line": 116,
+                            "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 78,
+                            "durationMicroseconds": 157,
                             "functionName": "color",
-                            "line": 78,
+                            "line": 119,
+                            "message": "Cannot access value for name clearButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 151,
+                            "functionName": "fill",
+                            "line": 125,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 172,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 100,
+                            "functionName": "preferredHeight",
+                            "line": 146,
+                            "message": "Cannot access value for name width"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 398,
+                            "functionName": "text",
+                            "line": 152,
                             "message": "Cannot access value for name divideButton"
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 102,
-                            "message": "Could not find signal \"clicked\"."
+                            "column": 23,
+                            "durationMicroseconds": 101,
+                            "functionName": "font",
+                            "line": 153,
+                            "message": "Cannot access value for name divideButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 222,
+                            "functionName": "horizontalAlignment",
+                            "line": 155,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 496,
+                            "functionName": "verticalAlignment",
+                            "line": 156,
+                            "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 82,
+                            "durationMicroseconds": 180,
                             "functionName": "color",
-                            "line": 99,
+                            "line": 159,
+                            "message": "Cannot access value for name divideButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 305,
+                            "functionName": "fill",
+                            "line": 165,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 219,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 145,
+                            "functionName": "preferredHeight",
+                            "line": 193,
+                            "message": "Cannot access value for name width"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 130,
+                            "functionName": "text",
+                            "line": 199,
                             "message": "Cannot access value for name multiplyButton"
                         },
                         {
                             "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 105,
+                            "functionName": "font",
+                            "line": 200,
+                            "message": "Cannot access value for name multiplyButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 341,
+                            "functionName": "horizontalAlignment",
+                            "line": 202,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 255,
+                            "functionName": "verticalAlignment",
+                            "line": 203,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 174,
+                            "functionName": "color",
+                            "line": 206,
+                            "message": "Cannot access value for name multiplyButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 273,
+                            "functionName": "fill",
+                            "line": 212,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 214,
+                            "functionName": "preferredHeight",
+                            "line": 236,
+                            "message": "Cannot access value for name width"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 320,
+                            "functionName": "text",
+                            "line": 241,
+                            "message": "Cannot load property text from (component in C:/Users/17367/Desktop/QT/Calculator/main/Main.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 189,
+                            "functionName": "font",
+                            "line": 242,
+                            "message": "Cannot load property font from (component in C:/Users/17367/Desktop/QT/Calculator/main/Main.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 254,
+                            "functionName": "horizontalAlignment",
+                            "line": 244,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 302,
+                            "functionName": "verticalAlignment",
+                            "line": 245,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 283,
+                            "functionName": "color",
+                            "line": 248,
+                            "message": "Cannot load property down from (component in C:/Users/17367/Desktop/QT/Calculator/main/Main.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 204,
+                            "functionName": "fill",
+                            "line": 254,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 123,
+                            "line": 267,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 59,
-                            "functionName": "color",
-                            "line": 120,
-                            "message": "Cannot access value for name sevenButton"
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 281,
+                            "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 137,
+                            "line": 295,
                             "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 56,
-                            "functionName": "color",
-                            "line": 134,
-                            "message": "Cannot access value for name eightButton"
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 151,
+                            "line": 335,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 58,
-                            "functionName": "color",
-                            "line": 148,
-                            "message": "Cannot access value for name nineButton"
+                            "column": 37,
+                            "durationMicroseconds": 204,
+                            "functionName": "preferredHeight",
+                            "line": 309,
+                            "message": "Cannot access value for name width"
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 165,
-                            "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 55,
-                            "functionName": "color",
-                            "line": 162,
+                            "column": 23,
+                            "durationMicroseconds": 88,
+                            "functionName": "text",
+                            "line": 315,
                             "message": "Cannot access value for name minusButton"
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 186,
-                            "message": "Could not find signal \"clicked\"."
+                            "column": 23,
+                            "durationMicroseconds": 65,
+                            "functionName": "font",
+                            "line": 316,
+                            "message": "Cannot access value for name minusButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 163,
+                            "functionName": "horizontalAlignment",
+                            "line": 318,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 238,
+                            "functionName": "verticalAlignment",
+                            "line": 319,
+                            "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 126,
                             "functionName": "color",
-                            "line": 183,
-                            "message": "Cannot access value for name fourButton"
+                            "line": 322,
+                            "message": "Cannot access value for name minusButton"
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 200,
-                            "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 75,
-                            "functionName": "color",
-                            "line": 197,
-                            "message": "Cannot access value for name fiveButton"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 214,
-                            "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 53,
-                            "functionName": "color",
-                            "line": 211,
-                            "message": "Cannot access value for name sixButton"
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 149,
+                            "functionName": "fill",
+                            "line": 328,
+                            "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 228,
+                            "line": 361,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 55,
-                            "functionName": "color",
-                            "line": 225,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 375,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 389,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 429,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 91,
+                            "functionName": "preferredHeight",
+                            "line": 403,
+                            "message": "Cannot access value for name width"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 147,
+                            "functionName": "text",
+                            "line": 409,
                             "message": "Cannot access value for name plusButton"
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 249,
-                            "message": "Could not find signal \"clicked\"."
+                            "column": 23,
+                            "durationMicroseconds": 62,
+                            "functionName": "font",
+                            "line": 410,
+                            "message": "Cannot access value for name plusButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 151,
+                            "functionName": "horizontalAlignment",
+                            "line": 412,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 133,
+                            "functionName": "verticalAlignment",
+                            "line": 413,
+                            "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 54,
+                            "durationMicroseconds": 121,
                             "functionName": "color",
-                            "line": 246,
-                            "message": "Cannot access value for name oneButton"
+                            "line": 416,
+                            "message": "Cannot access value for name plusButton"
                         },
                         {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 263,
-                            "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 63,
-                            "functionName": "color",
-                            "line": 260,
-                            "message": "Cannot access value for name twoButton"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 277,
-                            "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 80,
-                            "functionName": "color",
-                            "line": 274,
-                            "message": "Cannot access value for name threeButton"
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 125,
+                            "functionName": "fill",
+                            "line": 422,
+                            "message": ""
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 292,
+                            "line": 449,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
-                            "durationMicroseconds": 83,
-                            "functionName": "color",
-                            "line": 289,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 463,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 477,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 518,
+                            "message": "Could not find signal \"clicked\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 37,
+                            "durationMicroseconds": 87,
+                            "functionName": "preferredHeight",
+                            "line": 492,
+                            "message": "Cannot access value for name width"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 73,
+                            "functionName": "text",
+                            "line": 498,
                             "message": "Cannot access value for name equalsButton"
                         },
                         {
                             "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 163,
+                            "functionName": "font",
+                            "line": 499,
+                            "message": "Cannot access value for name equalsButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 180,
+                            "functionName": "horizontalAlignment",
+                            "line": 501,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 166,
+                            "functionName": "verticalAlignment",
+                            "line": 502,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 99,
+                            "functionName": "color",
+                            "line": 505,
+                            "message": "Cannot access value for name equalsButton"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 126,
+                            "functionName": "fill",
+                            "line": 511,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 330,
+                            "line": 565,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 58,
-                            "functionName": "color",
-                            "line": 327,
-                            "message": "Cannot access value for name zeroButton"
+                            "column": 37,
+                            "durationMicroseconds": 84,
+                            "functionName": "preferredHeight",
+                            "line": 563,
+                            "message": "Cannot access value for name width"
                         },
                         {
                             "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 344,
+                            "line": 583,
                             "message": "Could not find signal \"clicked\"."
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 58,
-                            "functionName": "color",
-                            "line": 341,
-                            "message": "Cannot access value for name decimalButton"
+                            "column": 37,
+                            "durationMicroseconds": 78,
+                            "functionName": "preferredHeight",
+                            "line": 581,
+                            "message": "Cannot access value for name width"
                         }
                     ],
                     "filePath": "C:/Users/17367/Desktop/QT/Calculator/main/Main.qml"

@@ -12,7 +12,6 @@ int main(int argc, char *argv[])
         &app,
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
-    engine.loadFromModule("main", "Main");
-
+    engine.loadFromModule("main", "Rectan");
     return app.exec();
 }

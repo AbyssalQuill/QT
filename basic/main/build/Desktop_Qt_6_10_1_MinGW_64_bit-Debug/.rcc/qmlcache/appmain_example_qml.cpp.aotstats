@@ -1,0 +1,31 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 754,
+                            "functionName": "left",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 206,
+                            "functionName": "top",
+                            "line": 30,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/17367/Desktop/QT/basic/main/Example.qml"
+                }
+            ],
+            "moduleId": "main(appmain)"
+        }
+    ]
+}

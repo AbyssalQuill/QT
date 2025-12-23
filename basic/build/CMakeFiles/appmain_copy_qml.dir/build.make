@@ -69,6 +69,9 @@ CMakeFiles/appmain_copy_qml: .qt/appmain_qml.txt
 
 .qt/appmain_qml.txt: C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 .qt/appmain_qml.txt: C:/Users/17367/Desktop/QT/basic/main/Main.qml
+.qt/appmain_qml.txt: C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+.qt/appmain_qml.txt: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+.qt/appmain_qml.txt: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Copying appmain qml sources into build dir"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -DFILES_INFO_PATH=C:/Users/17367/Desktop/QT/basic/build/.qt/appmain_qml.cmake -P C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
 

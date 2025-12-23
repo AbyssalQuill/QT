@@ -117,32 +117,74 @@ main/appmain.qmltypes: appmain_qmltyperegistrations.cpp
 .rcc/qmlcache/appmain_Main_qml.cpp.aotstats: .rcc/qmlcache/appmain_Main_qml.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Main_qml.cpp.aotstats
 
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Generating .rcc/qmlcache/appmain_RainbowGradient_qml.cpp, .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/RainbowGradient.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_RainbowGradient_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_Rectan_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_Rectan_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+.rcc/qmlcache/appmain_Rectan_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_Rectan_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_Rectan_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_Rectan_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Generating .rcc/qmlcache/appmain_Rectan_qml.cpp, .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/Rectan.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Rectan_qml.cpp C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+
+.rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats: .rcc/qmlcache/appmain_Rectan_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Rectan_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Generating .rcc/qmlcache/appmain_MyRectangle_qml.cpp, .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/MyRectangle.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_MyRectangle_qml.cpp C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
+
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats: .rcc/qmlcache/appmain_MyRectangle_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_MyRectangle_qml.cpp.aotstats
+
 .qt/rcc/qrc_appmain_raw_qml_0.cpp: C:/Users/17367/Desktop/QT/basic/main/Main.qml
+.qt/rcc/qrc_appmain_raw_qml_0.cpp: C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+.qt/rcc/qrc_appmain_raw_qml_0.cpp: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+.qt/rcc/qrc_appmain_raw_qml_0.cpp: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
 .qt/rcc/qrc_appmain_raw_qml_0.cpp: .qt/rcc/appmain_raw_qml_0.qrc
 .qt/rcc/qrc_appmain_raw_qml_0.cpp: C:/Qt/6.10.1/mingw_64/bin/rcc.exe
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Running rcc for resource appmain_raw_qml_0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Running rcc for resource appmain_raw_qml_0"
 	C:\Qt\6.10.1\mingw_64\bin\rcc.exe --output C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qrc_appmain_raw_qml_0.cpp --name appmain_raw_qml_0 C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --no-zstd
 
 appmain_autogen/timestamp: C:/Qt/6.10.1/mingw_64/bin/moc.exe
 appmain_autogen/timestamp: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Automatic MOC and UIC for target appmain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Automatic MOC and UIC for target appmain"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autogen C:/Users/17367/Desktop/QT/basic/build/CMakeFiles/appmain_autogen.dir/AutogenInfo.json Debug
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E touch C:/Users/17367/Desktop/QT/basic/build/appmain_autogen/timestamp
 
 meta_types/appmain_json_file_list.txt: C:/Qt/6.10.1/mingw_64/bin/cmake_automoc_parser.exe
 meta_types/appmain_json_file_list.txt: appmain_autogen/timestamp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Running AUTOMOC file extraction for target appmain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Running AUTOMOC file extraction for target appmain"
 	C:\Qt\6.10.1\mingw_64\bin\cmake_automoc_parser.exe --cmake-autogen-cache-file C:/Users/17367/Desktop/QT/basic/build/CMakeFiles/appmain_autogen.dir/ParseCache.txt --cmake-autogen-info-file C:/Users/17367/Desktop/QT/basic/build/CMakeFiles/appmain_autogen.dir/AutogenInfo.json --output-file-path C:/Users/17367/Desktop/QT/basic/build/meta_types/appmain_json_file_list.txt --timestamp-file-path C:/Users/17367/Desktop/QT/basic/build/meta_types/appmain_json_file_list.txt.timestamp --cmake-autogen-include-dir-path C:/Users/17367/Desktop/QT/basic/build/appmain_autogen/include
 
 meta_types/qt6appmain_metatypes.json: meta_types/qt6appmain_metatypes.json.gen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Generating meta_types/qt6appmain_metatypes.json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Generating meta_types/qt6appmain_metatypes.json"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E true
 
 CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj: CMakeFiles/appmain.dir/flags.make
 CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj: appmain_autogen/mocs_compilation.cpp
 CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\appmain.dir\appmain_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\appmain.dir\appmain_autogen\mocs_compilation.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\appmain_autogen\mocs_compilation.cpp
 
 CMakeFiles/appmain.dir/appmain_autogen/mocs_compilation.cpp.i: cmake_force
@@ -157,7 +199,7 @@ CMakeFiles/appmain.dir/main.cpp.obj: CMakeFiles/appmain.dir/flags.make
 CMakeFiles/appmain.dir/main.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/main.cpp.obj: C:/Users/17367/Desktop/QT/basic/main/main.cpp
 CMakeFiles/appmain.dir/main.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/appmain.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appmain.dir/main.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/main.cpp.obj -MF CMakeFiles\appmain.dir\main.cpp.obj.d -o CMakeFiles\appmain.dir\main.cpp.obj -c C:\Users\17367\Desktop\QT\basic\main\main.cpp
 
 CMakeFiles/appmain.dir/main.cpp.i: cmake_force
@@ -172,7 +214,7 @@ CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj: CMakeFiles/appmain.
 CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj: appmain_qmltyperegistrations.cpp
 CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -Wa,-mbig-obj -MD -MT CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj -MF CMakeFiles\appmain.dir\appmain_qmltyperegistrations.cpp.obj.d -o CMakeFiles\appmain.dir\appmain_qmltyperegistrations.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\appmain_qmltyperegistrations.cpp
 
 CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.i: cmake_force
@@ -187,7 +229,7 @@ CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj: CMakeFiles/appmain.dir/fl
 CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj: .qt/rcc/qrc_qmake_main.cpp
 CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj -MF CMakeFiles\appmain.dir\.qt\rcc\qrc_qmake_main.cpp.obj.d -o CMakeFiles\appmain.dir\.qt\rcc\qrc_qmake_main.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.qt\rcc\qrc_qmake_main.cpp
 
 CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.i: cmake_force
@@ -202,7 +244,7 @@ CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj: CMakeFiles
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj: .rcc/qmlcache/appmain_qmlcache_loader.cpp
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj -MF CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_qmlcache_loader.cpp.obj.d -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_qmlcache_loader.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_qmlcache_loader.cpp
 
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.i: cmake_force
@@ -217,7 +259,7 @@ CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj: CMakeFiles/appmai
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj: .rcc/qmlcache/appmain_Main_qml.cpp
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj -MF CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Main_qml.cpp.obj.d -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Main_qml.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_Main_qml.cpp
 
 CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.i: cmake_force
@@ -228,11 +270,56 @@ CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_Main_qml.cpp -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Main_qml.cpp.s
 
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj: CMakeFiles/appmain.dir/flags.make
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj -MF CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp.obj.d -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp > CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp.i
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_RainbowGradient_qml.cpp.s
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj: CMakeFiles/appmain.dir/flags.make
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj: .rcc/qmlcache/appmain_Rectan_qml.cpp
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj -MF CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Rectan_qml.cpp.obj.d -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Rectan_qml.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_Rectan_qml.cpp
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_Rectan_qml.cpp > CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Rectan_qml.cpp.i
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_Rectan_qml.cpp -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_Rectan_qml.cpp.s
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj: CMakeFiles/appmain.dir/flags.make
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj: .rcc/qmlcache/appmain_MyRectangle_qml.cpp
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj -MF CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_MyRectangle_qml.cpp.obj.d -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_MyRectangle_qml.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_MyRectangle_qml.cpp
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_MyRectangle_qml.cpp > CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_MyRectangle_qml.cpp.i
+
+CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\17367\Desktop\QT\basic\build\.rcc\qmlcache\appmain_MyRectangle_qml.cpp -o CMakeFiles\appmain.dir\.rcc\qmlcache\appmain_MyRectangle_qml.cpp.s
+
 CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj: CMakeFiles/appmain.dir/flags.make
 CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj: CMakeFiles/appmain.dir/includes_CXX.rsp
 CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj: .qt/rcc/qrc_appmain_raw_qml_0.cpp
 CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj: CMakeFiles/appmain.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj -MF CMakeFiles\appmain.dir\.qt\rcc\qrc_appmain_raw_qml_0.cpp.obj.d -o CMakeFiles\appmain.dir\.qt\rcc\qrc_appmain_raw_qml_0.cpp.obj -c C:\Users\17367\Desktop\QT\basic\build\.qt\rcc\qrc_appmain_raw_qml_0.cpp
 
 CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.i: cmake_force
@@ -251,6 +338,9 @@ appmain_OBJECTS = \
 "CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj" \
 "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj" \
 "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj" \
+"CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj" \
+"CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj" \
+"CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj" \
 "CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj"
 
 # External object files for target appmain
@@ -262,6 +352,9 @@ appmain.exe: CMakeFiles/appmain.dir/appmain_qmltyperegistrations.cpp.obj
 appmain.exe: CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.obj
 appmain.exe: CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_qmlcache_loader.cpp.obj
 appmain.exe: CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj
+appmain.exe: CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj
+appmain.exe: CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj
+appmain.exe: CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj
 appmain.exe: CMakeFiles/appmain.dir/.qt/rcc/qrc_appmain_raw_qml_0.cpp.obj
 appmain.exe: CMakeFiles/appmain.dir/build.make
 appmain.exe: C:/Qt/6.10.1/mingw_64/lib/libQt6Quick.a
@@ -274,7 +367,7 @@ appmain.exe: C:/Qt/6.10.1/mingw_64/lib/libQt6EntryPoint.a
 appmain.exe: CMakeFiles/appmain.dir/linkLibs.rsp
 appmain.exe: CMakeFiles/appmain.dir/objects1.rsp
 appmain.exe: CMakeFiles/appmain.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable appmain.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking CXX executable appmain.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\appmain.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -289,6 +382,12 @@ CMakeFiles/appmain.dir/depend: .qt/rcc/qrc_appmain_raw_qml_0.cpp
 CMakeFiles/appmain.dir/depend: .qt/rcc/qrc_qmake_main.cpp
 CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_Main_qml.cpp
 CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_Main_qml.cpp.aotstats
+CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_MyRectangle_qml.cpp
+CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats
+CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
+CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats
+CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_Rectan_qml.cpp
+CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats
 CMakeFiles/appmain.dir/depend: .rcc/qmlcache/appmain_qmlcache_loader.cpp
 CMakeFiles/appmain.dir/depend: appmain_autogen/timestamp
 CMakeFiles/appmain.dir/depend: appmain_qmltyperegistrations.cpp

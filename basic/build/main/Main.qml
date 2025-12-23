@@ -1,6 +1,7 @@
-import QtQuick 6.5
-import QtQuick.Window 6.5
-import QtQuick.Controls 6.5
+import QtQuick 6.8
+import QtQuick.Window 6.8
+import QtQuick.Controls 6.8
+import QtQuick.Controls.Basic 6.8
 
 // 1. 核心基础：创建窗口（Window 关键字）
 Window {
@@ -28,6 +29,8 @@ Window {
             font.pointSize: 14      // 字体大小（点）
             font.bold: true         // 粗体
             font.italic: false      // 斜体
+            // 自动换行
+            wrapMode: Text.NoWrap
             color: "#333333"        // 字体颜色（十六进制）
             horizontalAlignment: Text.AlignLeft // 水平对齐
         }

@@ -8,5 +8,8 @@ C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc
 --resource
 C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc
 C:/Users/17367/Desktop/QT/basic/main/Main.qml
+C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
 --json
 C:/Users/17367/Desktop/QT/basic/build/appmain_qmllint.json

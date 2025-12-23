@@ -466,6 +466,78 @@ appmain_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.s
 .PHONY : .rcc/qmlcache/appmain_Main_qml.cpp.s
 
+.rcc/qmlcache/appmain_MyRectangle_qml.obj: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj
+
+.rcc/qmlcache/appmain_MyRectangle_qml.i: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.cpp.i
+
+.rcc/qmlcache/appmain_MyRectangle_qml.s: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.cpp.s
+
+.rcc/qmlcache/appmain_RainbowGradient_qml.obj: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.obj
+
+.rcc/qmlcache/appmain_RainbowGradient_qml.i: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.i
+
+.rcc/qmlcache/appmain_RainbowGradient_qml.s: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s
+
+.rcc/qmlcache/appmain_Rectan_qml.obj: .rcc/qmlcache/appmain_Rectan_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_Rectan_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_Rectan_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_Rectan_qml.cpp.obj
+
+.rcc/qmlcache/appmain_Rectan_qml.i: .rcc/qmlcache/appmain_Rectan_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_Rectan_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_Rectan_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_Rectan_qml.cpp.i
+
+.rcc/qmlcache/appmain_Rectan_qml.s: .rcc/qmlcache/appmain_Rectan_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_Rectan_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_Rectan_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_Rectan_qml.cpp.s
+
 .rcc/qmlcache/appmain_qmlcache_loader.obj: .rcc/qmlcache/appmain_qmlcache_loader.cpp.obj
 .PHONY : .rcc/qmlcache/appmain_qmlcache_loader.obj
 
@@ -601,6 +673,15 @@ help:
 	@echo ... .rcc/qmlcache/appmain_Main_qml.obj
 	@echo ... .rcc/qmlcache/appmain_Main_qml.i
 	@echo ... .rcc/qmlcache/appmain_Main_qml.s
+	@echo ... .rcc/qmlcache/appmain_MyRectangle_qml.obj
+	@echo ... .rcc/qmlcache/appmain_MyRectangle_qml.i
+	@echo ... .rcc/qmlcache/appmain_MyRectangle_qml.s
+	@echo ... .rcc/qmlcache/appmain_RainbowGradient_qml.obj
+	@echo ... .rcc/qmlcache/appmain_RainbowGradient_qml.i
+	@echo ... .rcc/qmlcache/appmain_RainbowGradient_qml.s
+	@echo ... .rcc/qmlcache/appmain_Rectan_qml.obj
+	@echo ... .rcc/qmlcache/appmain_Rectan_qml.i
+	@echo ... .rcc/qmlcache/appmain_Rectan_qml.s
 	@echo ... .rcc/qmlcache/appmain_qmlcache_loader.obj
 	@echo ... .rcc/qmlcache/appmain_qmlcache_loader.i
 	@echo ... .rcc/qmlcache/appmain_qmlcache_loader.s

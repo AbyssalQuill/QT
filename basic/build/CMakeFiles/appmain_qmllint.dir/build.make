@@ -67,6 +67,9 @@ include CMakeFiles/appmain_qmllint.dir/progress.make
 
 CMakeFiles/appmain_qmllint: C:/Qt/6.10.1/mingw_64/bin/qmllint.exe
 CMakeFiles/appmain_qmllint: C:/Users/17367/Desktop/QT/basic/main/Main.qml
+CMakeFiles/appmain_qmllint: C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+CMakeFiles/appmain_qmllint: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+CMakeFiles/appmain_qmllint: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
 CMakeFiles/appmain_qmllint: .rcc/qmllint/appmain.rsp
 	cd /d C:\Users\17367\Desktop\QT\basic\main && call C:\Users\17367\Desktop\QT\basic\build\.qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmllint.exe @C:/Users/17367/Desktop/QT/basic/build/.rcc/qmllint/appmain.rsp
 

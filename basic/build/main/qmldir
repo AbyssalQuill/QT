@@ -2,5 +2,8 @@ module main
 typeinfo appmain.qmltypes
 prefer :/qt/qml/main/
 Main 254.0 Main.qml
+RainbowGradient 254.0 RainbowGradient.qml
+Rectan 254.0 Rectan.qml
+MyRectangle 254.0 MyRectangle.qml
 depends QtQuick
 

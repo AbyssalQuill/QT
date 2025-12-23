@@ -1,6 +1,12 @@
 file(REMOVE_RECURSE
   ".rcc/qmlcache/appmain_Main_qml.cpp"
   ".rcc/qmlcache/appmain_Main_qml.cpp.aotstats"
+  ".rcc/qmlcache/appmain_MyRectangle_qml.cpp"
+  ".rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats"
+  ".rcc/qmlcache/appmain_RainbowGradient_qml.cpp"
+  ".rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats"
+  ".rcc/qmlcache/appmain_Rectan_qml.cpp"
+  ".rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats"
   ".rcc/qmlcache/module_appmain.aotstats"
   "CMakeFiles/module_appmain_aotstats_target"
 )

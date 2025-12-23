@@ -1,6 +1,9 @@
 <RCC>
   <qresource prefix="/qt/qml/main/">
     <file alias="Main.qml">C:/Users/17367/Desktop/QT/basic/main/Main.qml</file>
+    <file alias="RainbowGradient.qml">C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml</file>
+    <file alias="Rectan.qml">C:/Users/17367/Desktop/QT/basic/main/Rectan.qml</file>
+    <file alias="MyRectangle.qml">C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml</file>
   </qresource>
 </RCC>
 

@@ -8,73 +8,81 @@
                         {
                             "codegenResult": 0,
                             "column": 21,
-                            "durationMicroseconds": 467,
+                            "durationMicroseconds": 394,
                             "functionName": "onWidthChanged",
-                            "line": 102,
+                            "line": 105,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 94,
+                            "durationMicroseconds": 87,
                             "functionName": "fill",
-                            "line": 16,
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 91,
+                            "functionName": "wrapMode",
+                            "line": 33,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 104,
+                            "durationMicroseconds": 54,
                             "functionName": "horizontalAlignment",
-                            "line": 32,
+                            "line": 35,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 604,
+                            "functionName": "onClicked",
+                            "line": 47,
                             "message": ""
                         },
                         {
                             "codegenResult": 2,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 44,
-                            "message": "Could not find signal \"clicked\"."
-                        },
-                        {
-                            "codegenResult": 2,
                             "column": 19,
-                            "durationMicroseconds": 432,
+                            "durationMicroseconds": 180,
                             "functionName": "text",
-                            "line": 58,
+                            "line": 61,
                             "message": "Cannot generate efficient code for call to untyped JavaScript function"
                         },
                         {
                             "codegenResult": 0,
                             "column": 23,
-                            "durationMicroseconds": 125,
+                            "durationMicroseconds": 64,
                             "functionName": "wrapMode",
-                            "line": 63,
+                            "line": 66,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 35,
-                            "durationMicroseconds": 69,
+                            "durationMicroseconds": 48,
                             "functionName": "centerIn",
-                            "line": 80,
+                            "line": 83,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 86,
+                            "durationMicroseconds": 76,
                             "functionName": "weight",
-                            "line": 84,
+                            "line": 87,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 19,
-                            "durationMicroseconds": 200,
+                            "durationMicroseconds": 134,
                             "functionName": "text",
-                            "line": 95,
+                            "line": 98,
                             "message": ""
                         }
                     ],

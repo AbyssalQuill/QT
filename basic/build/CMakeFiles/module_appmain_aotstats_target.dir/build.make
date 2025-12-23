@@ -68,6 +68,9 @@ include CMakeFiles/module_appmain_aotstats_target.dir/progress.make
 CMakeFiles/module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 
 .rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_Main_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats
 .rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/module_appmain.aotstatslist
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating .rcc/qmlcache/module_appmain.aotstats"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlaotstats.exe aggregate C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/module_appmain.aotstatslist C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/module_appmain.aotstats
@@ -85,8 +88,53 @@ CMakeFiles/module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 .rcc/qmlcache/appmain_Main_qml.cpp.aotstats: .rcc/qmlcache/appmain_Main_qml.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Main_qml.cpp.aotstats
 
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating .rcc/qmlcache/appmain_MyRectangle_qml.cpp, .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/MyRectangle.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_MyRectangle_qml.cpp C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
+
+.rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats: .rcc/qmlcache/appmain_MyRectangle_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_MyRectangle_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating .rcc/qmlcache/appmain_RainbowGradient_qml.cpp, .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/RainbowGradient.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
+
+.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_RainbowGradient_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_Rectan_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_Rectan_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+.rcc/qmlcache/appmain_Rectan_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_Rectan_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_Rectan_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_Rectan_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating .rcc/qmlcache/appmain_Rectan_qml.cpp, .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/Rectan.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Rectan_qml.cpp C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+
+.rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats: .rcc/qmlcache/appmain_Rectan_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Rectan_qml.cpp.aotstats
+
 module_appmain_aotstats_target: .rcc/qmlcache/appmain_Main_qml.cpp
 module_appmain_aotstats_target: .rcc/qmlcache/appmain_Main_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_MyRectangle_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_Rectan_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats
 module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 module_appmain_aotstats_target: CMakeFiles/module_appmain_aotstats_target
 module_appmain_aotstats_target: CMakeFiles/module_appmain_aotstats_target.dir/build.make

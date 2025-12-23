@@ -8,8 +8,15 @@ e60e1002c99e931d668647f996a25401 .qt/appmain_res.txt
 3cacd75e37718598d3c4d13380a72b5a .qt/rcc/qrc_appmain_raw_qml_0.cpp
 7f79b907e22ea7ab886d406d729f40b9 .qt/rcc/qrc_qmake_main.cpp
 a5b4b021a81269d00aab65b5f41de464 .rcc/qmlcache/all_aotstats.aotstats
+65668b07c5c16328eb05650728297ef0 .rcc/qmlcache/appmain_Example_qml.cpp
 ea58882c512047a9df247b1728a1296a .rcc/qmlcache/appmain_Main_qml.cpp
+5ec917d3c8f84599319995b2eb9a35cb .rcc/qmlcache/appmain_MyRectangle_qml.cpp
+e10696cf0baec63472bac39d5ef04a9e .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
+4e0510cdd580e3fa62d4b3acc289fb1e .rcc/qmlcache/appmain_Rectan_qml.cpp
+d82b270ef8803e6b0912d98d469c3a04 .rcc/qmlcache/appmain_Rectangle_qml.cpp
+b5037881c277f8d381185cb4923aa635 .rcc/qmlcache/appmain_column_qml.cpp
 ef1002dfcb2c9dd466a5d9832e4149a6 .rcc/qmlcache/appmain_qmlcache_loader.cpp
+d3622427b779b57f71bf347863f9802d .rcc/qmlcache/appmain_彩色渐变_qml.cpp
 b1abbafa0c6ce613eb2264e259c0b720 .rcc/qmlcache/module_appmain.aotstats
 3b361d064ff5f5a400b09c78396e2133 CMakeFiles/all_aotstats
 2de2e320a9dddfceb10f479e80093cfd CMakeFiles/appmain_autogen

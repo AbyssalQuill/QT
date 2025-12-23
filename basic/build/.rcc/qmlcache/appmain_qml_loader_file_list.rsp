@@ -3,3 +3,6 @@ C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc
 --resource
 C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc
 /qt/qml/main/Main.qml
+/qt/qml/main/RainbowGradient.qml
+/qt/qml/main/Rectan.qml
+/qt/qml/main/MyRectangle.qml
