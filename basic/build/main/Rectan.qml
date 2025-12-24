@@ -443,8 +443,6 @@ Window {
                     // contains(x,y)：判断坐标是否在组件内
                     let isInside = containRect.contains(mouse.x, mouse.y);
                     containText.text = isInside ? "在内部" : "在外部\n坐标:(" + containRect.x + "," + containRect.y + ")";
-                    if (isInside) console.log("在组件内");
-                    else console.log("在组件外");
                 }
                 drag.target: parent
                 drag.axis: Drag.XAndYAxis

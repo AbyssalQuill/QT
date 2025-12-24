@@ -94,10 +94,10 @@ clean: CMakeFiles/appmain_autogen.dir/clean
 # Target rules for target CMakeFiles/appmain.dir
 
 # All Build rule for target.
-CMakeFiles/appmain.dir/all: CMakeFiles/appmain_copy_res.dir/all
-CMakeFiles/appmain.dir/all: CMakeFiles/appmain_copy_qml.dir/all
 CMakeFiles/appmain.dir/all: CMakeFiles/generate_qmlls_build_ini_file.dir/all
 CMakeFiles/appmain.dir/all: CMakeFiles/appmain_generate_qmlls_ini_file.dir/all
+CMakeFiles/appmain.dir/all: CMakeFiles/appmain_copy_qml.dir/all
+CMakeFiles/appmain.dir/all: CMakeFiles/appmain_copy_res.dir/all
 CMakeFiles/appmain.dir/all: CMakeFiles/appmain_qmlimportscan.dir/all
 CMakeFiles/appmain.dir/all: CMakeFiles/appmain_autogen_timestamp_deps.dir/all
 CMakeFiles/appmain.dir/all: CMakeFiles/appmain_autogen.dir/all
@@ -518,10 +518,10 @@ CMakeFiles/appmain_qmlimportscan.dir/clean:
 # Target rules for target CMakeFiles/appmain_autogen_timestamp_deps.dir
 
 # All Build rule for target.
-CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/appmain_copy_res.dir/all
-CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/appmain_copy_qml.dir/all
 CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/generate_qmlls_build_ini_file.dir/all
 CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/appmain_generate_qmlls_ini_file.dir/all
+CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/appmain_copy_qml.dir/all
+CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/appmain_copy_res.dir/all
 CMakeFiles/appmain_autogen_timestamp_deps.dir/all: CMakeFiles/appmain_qmlimportscan.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain_autogen_timestamp_deps.dir\build.make CMakeFiles/appmain_autogen_timestamp_deps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain_autogen_timestamp_deps.dir\build.make CMakeFiles/appmain_autogen_timestamp_deps.dir/build
