@@ -31,9 +31,9 @@
 },
 {
   "directory": "C:/Users/17367/Desktop/QT/basic/build",
-  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_Main_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_Main_qml.cpp",
-  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Main_qml.cpp",
-  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj"
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_Base_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_Base_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Base_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Base_qml.cpp.obj"
 },
 {
   "directory": "C:/Users/17367/Desktop/QT/basic/build",
@@ -43,15 +43,75 @@
 },
 {
   "directory": "C:/Users/17367/Desktop/QT/basic/build",
-  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_Rectan_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_Rectan_qml.cpp",
-  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Rectan_qml.cpp",
-  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj"
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_RectangleEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_RectangleEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RectangleEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RectangleEg_qml.cpp.obj"
 },
 {
   "directory": "C:/Users/17367/Desktop/QT/basic/build",
   "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_MyRectangle_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_MyRectangle_qml.cpp",
   "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_MyRectangle_qml.cpp",
   "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_AnchorsEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_AnchorsEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_AnchorsEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_WindowEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_WindowEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_WindowEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_WindowEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_DialogEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_DialogEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_DialogEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_DialogEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_ItemEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_ItemEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_ItemEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ItemEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_RowLayoutEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_RowLayoutEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_ColumnLyaoutEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_ColumnLyaoutEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_GridLayoutEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_GridLayoutEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_StackLayoutEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_StackLayoutEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_ButtonEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_ButtonEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_ButtonEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ButtonEg_qml.cpp.obj"
+},
+{
+  "directory": "C:/Users/17367/Desktop/QT/basic/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/appmain.dir/includes_CXX.rsp -g -o CMakeFiles\\appmain.dir\\.rcc\\qmlcache\\appmain_TextFieldEg_qml.cpp.obj -c C:\\Users\\17367\\Desktop\\QT\\basic\\build\\.rcc\\qmlcache\\appmain_TextFieldEg_qml.cpp",
+  "file": "C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_TextFieldEg_qml.cpp",
+  "output": "CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.obj"
 },
 {
   "directory": "C:/Users/17367/Desktop/QT/basic/build",

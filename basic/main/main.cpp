@@ -12,6 +12,6 @@ int main(int argc, char *argv[])
         &app,
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
-    engine.loadFromModule("main", "Rectan");
+    engine.loadFromModule("main","TextFieldEg");
     return app.exec();
 }

@@ -1,9 +1,19 @@
 <RCC>
   <qresource prefix="/qt/qml/main/">
-    <file alias="Main.qml">C:/Users/17367/Desktop/QT/basic/main/Main.qml</file>
+    <file alias="Base.qml">C:/Users/17367/Desktop/QT/basic/main/Base.qml</file>
     <file alias="RainbowGradient.qml">C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml</file>
-    <file alias="Rectan.qml">C:/Users/17367/Desktop/QT/basic/main/Rectan.qml</file>
+    <file alias="RectangleEg.qml">C:/Users/17367/Desktop/QT/basic/main/RectangleEg.qml</file>
     <file alias="MyRectangle.qml">C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml</file>
+    <file alias="AnchorsEg.qml">C:/Users/17367/Desktop/QT/basic/main/AnchorsEg.qml</file>
+    <file alias="WindowEg.qml">C:/Users/17367/Desktop/QT/basic/main/WindowEg.qml</file>
+    <file alias="DialogEg.qml">C:/Users/17367/Desktop/QT/basic/main/DialogEg.qml</file>
+    <file alias="ItemEg.qml">C:/Users/17367/Desktop/QT/basic/main/ItemEg.qml</file>
+    <file alias="RowLayoutEg.qml">C:/Users/17367/Desktop/QT/basic/main/RowLayoutEg.qml</file>
+    <file alias="ColumnLyaoutEg.qml">C:/Users/17367/Desktop/QT/basic/main/ColumnLyaoutEg.qml</file>
+    <file alias="GridLayoutEg.qml">C:/Users/17367/Desktop/QT/basic/main/GridLayoutEg.qml</file>
+    <file alias="StackLayoutEg.qml">C:/Users/17367/Desktop/QT/basic/main/StackLayoutEg.qml</file>
+    <file alias="ButtonEg.qml">C:/Users/17367/Desktop/QT/basic/main/ButtonEg.qml</file>
+    <file alias="TextFieldEg.qml">C:/Users/17367/Desktop/QT/basic/main/TextFieldEg.qml</file>
   </qresource>
 </RCC>
 

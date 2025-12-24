@@ -442,29 +442,173 @@ appmain_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.qt/rcc/qrc_qmake_main.cpp.s
 .PHONY : .qt/rcc/qrc_qmake_main.cpp.s
 
-.rcc/qmlcache/appmain_Main_qml.obj: .rcc/qmlcache/appmain_Main_qml.cpp.obj
-.PHONY : .rcc/qmlcache/appmain_Main_qml.obj
+.rcc/qmlcache/appmain_AnchorsEg_qml.obj: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_AnchorsEg_qml.obj
 
 # target to build an object file
-.rcc/qmlcache/appmain_Main_qml.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.obj
-.PHONY : .rcc/qmlcache/appmain_Main_qml.cpp.obj
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.obj
 
-.rcc/qmlcache/appmain_Main_qml.i: .rcc/qmlcache/appmain_Main_qml.cpp.i
-.PHONY : .rcc/qmlcache/appmain_Main_qml.i
+.rcc/qmlcache/appmain_AnchorsEg_qml.i: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_AnchorsEg_qml.i
 
 # target to preprocess a source file
-.rcc/qmlcache/appmain_Main_qml.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.i
-.PHONY : .rcc/qmlcache/appmain_Main_qml.cpp.i
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.i
 
-.rcc/qmlcache/appmain_Main_qml.s: .rcc/qmlcache/appmain_Main_qml.cpp.s
-.PHONY : .rcc/qmlcache/appmain_Main_qml.s
+.rcc/qmlcache/appmain_AnchorsEg_qml.s: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_AnchorsEg_qml.s
 
 # target to generate assembly for a file
-.rcc/qmlcache/appmain_Main_qml.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Main_qml.cpp.s
-.PHONY : .rcc/qmlcache/appmain_Main_qml.cpp.s
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_Base_qml.obj: .rcc/qmlcache/appmain_Base_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_Base_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_Base_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Base_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_Base_qml.cpp.obj
+
+.rcc/qmlcache/appmain_Base_qml.i: .rcc/qmlcache/appmain_Base_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_Base_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_Base_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Base_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_Base_qml.cpp.i
+
+.rcc/qmlcache/appmain_Base_qml.s: .rcc/qmlcache/appmain_Base_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_Base_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_Base_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Base_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_Base_qml.cpp.s
+
+.rcc/qmlcache/appmain_ButtonEg_qml.obj: .rcc/qmlcache/appmain_ButtonEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_ButtonEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ButtonEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_ButtonEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_ButtonEg_qml.i: .rcc/qmlcache/appmain_ButtonEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_ButtonEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ButtonEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_ButtonEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_ButtonEg_qml.s: .rcc/qmlcache/appmain_ButtonEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_ButtonEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ButtonEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_ButtonEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.obj: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.i: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.s: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_DialogEg_qml.obj: .rcc/qmlcache/appmain_DialogEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_DialogEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_DialogEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_DialogEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_DialogEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_DialogEg_qml.i: .rcc/qmlcache/appmain_DialogEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_DialogEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_DialogEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_DialogEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_DialogEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_DialogEg_qml.s: .rcc/qmlcache/appmain_DialogEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_DialogEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_DialogEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_DialogEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_DialogEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_GridLayoutEg_qml.obj: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_GridLayoutEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_GridLayoutEg_qml.i: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_GridLayoutEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_GridLayoutEg_qml.s: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_GridLayoutEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_ItemEg_qml.obj: .rcc/qmlcache/appmain_ItemEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_ItemEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_ItemEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ItemEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_ItemEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_ItemEg_qml.i: .rcc/qmlcache/appmain_ItemEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_ItemEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_ItemEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ItemEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_ItemEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_ItemEg_qml.s: .rcc/qmlcache/appmain_ItemEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_ItemEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_ItemEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_ItemEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_ItemEg_qml.cpp.s
 
 .rcc/qmlcache/appmain_MyRectangle_qml.obj: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.obj
 .PHONY : .rcc/qmlcache/appmain_MyRectangle_qml.obj
@@ -514,29 +658,125 @@ appmain_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s
 .PHONY : .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.s
 
-.rcc/qmlcache/appmain_Rectan_qml.obj: .rcc/qmlcache/appmain_Rectan_qml.cpp.obj
-.PHONY : .rcc/qmlcache/appmain_Rectan_qml.obj
+.rcc/qmlcache/appmain_RectangleEg_qml.obj: .rcc/qmlcache/appmain_RectangleEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_RectangleEg_qml.obj
 
 # target to build an object file
-.rcc/qmlcache/appmain_Rectan_qml.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.obj
-.PHONY : .rcc/qmlcache/appmain_Rectan_qml.cpp.obj
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RectangleEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_RectangleEg_qml.cpp.obj
 
-.rcc/qmlcache/appmain_Rectan_qml.i: .rcc/qmlcache/appmain_Rectan_qml.cpp.i
-.PHONY : .rcc/qmlcache/appmain_Rectan_qml.i
+.rcc/qmlcache/appmain_RectangleEg_qml.i: .rcc/qmlcache/appmain_RectangleEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_RectangleEg_qml.i
 
 # target to preprocess a source file
-.rcc/qmlcache/appmain_Rectan_qml.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.i
-.PHONY : .rcc/qmlcache/appmain_Rectan_qml.cpp.i
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RectangleEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_RectangleEg_qml.cpp.i
 
-.rcc/qmlcache/appmain_Rectan_qml.s: .rcc/qmlcache/appmain_Rectan_qml.cpp.s
-.PHONY : .rcc/qmlcache/appmain_Rectan_qml.s
+.rcc/qmlcache/appmain_RectangleEg_qml.s: .rcc/qmlcache/appmain_RectangleEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_RectangleEg_qml.s
 
 # target to generate assembly for a file
-.rcc/qmlcache/appmain_Rectan_qml.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_Rectan_qml.cpp.s
-.PHONY : .rcc/qmlcache/appmain_Rectan_qml.cpp.s
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RectangleEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_RectangleEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_RowLayoutEg_qml.obj: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_RowLayoutEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_RowLayoutEg_qml.i: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_RowLayoutEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_RowLayoutEg_qml.s: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_RowLayoutEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_StackLayoutEg_qml.obj: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_StackLayoutEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_StackLayoutEg_qml.i: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_StackLayoutEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_StackLayoutEg_qml.s: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_StackLayoutEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_TextFieldEg_qml.obj: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_TextFieldEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_TextFieldEg_qml.i: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_TextFieldEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_TextFieldEg_qml.s: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_TextFieldEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.s
+
+.rcc/qmlcache/appmain_WindowEg_qml.obj: .rcc/qmlcache/appmain_WindowEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_WindowEg_qml.obj
+
+# target to build an object file
+.rcc/qmlcache/appmain_WindowEg_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_WindowEg_qml.cpp.obj
+.PHONY : .rcc/qmlcache/appmain_WindowEg_qml.cpp.obj
+
+.rcc/qmlcache/appmain_WindowEg_qml.i: .rcc/qmlcache/appmain_WindowEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_WindowEg_qml.i
+
+# target to preprocess a source file
+.rcc/qmlcache/appmain_WindowEg_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_WindowEg_qml.cpp.i
+.PHONY : .rcc/qmlcache/appmain_WindowEg_qml.cpp.i
+
+.rcc/qmlcache/appmain_WindowEg_qml.s: .rcc/qmlcache/appmain_WindowEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_WindowEg_qml.s
+
+# target to generate assembly for a file
+.rcc/qmlcache/appmain_WindowEg_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appmain.dir\build.make CMakeFiles/appmain.dir/.rcc/qmlcache/appmain_WindowEg_qml.cpp.s
+.PHONY : .rcc/qmlcache/appmain_WindowEg_qml.cpp.s
 
 .rcc/qmlcache/appmain_qmlcache_loader.obj: .rcc/qmlcache/appmain_qmlcache_loader.cpp.obj
 .PHONY : .rcc/qmlcache/appmain_qmlcache_loader.obj
@@ -670,18 +910,48 @@ help:
 	@echo ... .qt/rcc/qrc_qmake_main.obj
 	@echo ... .qt/rcc/qrc_qmake_main.i
 	@echo ... .qt/rcc/qrc_qmake_main.s
-	@echo ... .rcc/qmlcache/appmain_Main_qml.obj
-	@echo ... .rcc/qmlcache/appmain_Main_qml.i
-	@echo ... .rcc/qmlcache/appmain_Main_qml.s
+	@echo ... .rcc/qmlcache/appmain_AnchorsEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_AnchorsEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_AnchorsEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_Base_qml.obj
+	@echo ... .rcc/qmlcache/appmain_Base_qml.i
+	@echo ... .rcc/qmlcache/appmain_Base_qml.s
+	@echo ... .rcc/qmlcache/appmain_ButtonEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_ButtonEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_ButtonEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_DialogEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_DialogEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_DialogEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_GridLayoutEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_GridLayoutEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_GridLayoutEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_ItemEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_ItemEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_ItemEg_qml.s
 	@echo ... .rcc/qmlcache/appmain_MyRectangle_qml.obj
 	@echo ... .rcc/qmlcache/appmain_MyRectangle_qml.i
 	@echo ... .rcc/qmlcache/appmain_MyRectangle_qml.s
 	@echo ... .rcc/qmlcache/appmain_RainbowGradient_qml.obj
 	@echo ... .rcc/qmlcache/appmain_RainbowGradient_qml.i
 	@echo ... .rcc/qmlcache/appmain_RainbowGradient_qml.s
-	@echo ... .rcc/qmlcache/appmain_Rectan_qml.obj
-	@echo ... .rcc/qmlcache/appmain_Rectan_qml.i
-	@echo ... .rcc/qmlcache/appmain_Rectan_qml.s
+	@echo ... .rcc/qmlcache/appmain_RectangleEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_RectangleEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_RectangleEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_RowLayoutEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_RowLayoutEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_RowLayoutEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_StackLayoutEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_StackLayoutEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_StackLayoutEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_TextFieldEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_TextFieldEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_TextFieldEg_qml.s
+	@echo ... .rcc/qmlcache/appmain_WindowEg_qml.obj
+	@echo ... .rcc/qmlcache/appmain_WindowEg_qml.i
+	@echo ... .rcc/qmlcache/appmain_WindowEg_qml.s
 	@echo ... .rcc/qmlcache/appmain_qmlcache_loader.obj
 	@echo ... .rcc/qmlcache/appmain_qmlcache_loader.i
 	@echo ... .rcc/qmlcache/appmain_qmlcache_loader.s

@@ -5,7 +5,7 @@
 #include <QtCore/qstring.h>
 
 namespace QmlCacheGeneratedCode {
-namespace _qt_qml_main_Main_qml { 
+namespace _qt_qml_main_Base_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -19,7 +19,7 @@ namespace _qt_qml_main_RainbowGradient_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_main_Rectan_qml { 
+namespace _qt_qml_main_RectangleEg_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -27,6 +27,76 @@ namespace _qt_qml_main_Rectan_qml {
     };
 }
 namespace _qt_qml_main_MyRectangle_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_AnchorsEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_WindowEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_DialogEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_ItemEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_RowLayoutEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_ColumnLyaoutEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_GridLayoutEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_StackLayoutEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_ButtonEg_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_main_TextFieldEg_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -47,10 +117,20 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 
 Registry::Registry() {
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_main_Main_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/Base.qml"), &QmlCacheGeneratedCode::_qt_qml_main_Base_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/RainbowGradient.qml"), &QmlCacheGeneratedCode::_qt_qml_main_RainbowGradient_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/Rectan.qml"), &QmlCacheGeneratedCode::_qt_qml_main_Rectan_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/RectangleEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_RectangleEg_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/MyRectangle.qml"), &QmlCacheGeneratedCode::_qt_qml_main_MyRectangle_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/AnchorsEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_AnchorsEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/WindowEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_WindowEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/DialogEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_DialogEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/ItemEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_ItemEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/RowLayoutEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_RowLayoutEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/ColumnLyaoutEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_ColumnLyaoutEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/GridLayoutEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_GridLayoutEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/StackLayoutEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_StackLayoutEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/ButtonEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_ButtonEg_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/main/TextFieldEg.qml"), &QmlCacheGeneratedCode::_qt_qml_main_TextFieldEg_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

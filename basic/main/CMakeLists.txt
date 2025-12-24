@@ -21,10 +21,20 @@ qt_add_executable(appmain
 qt_add_qml_module(appmain
     URI main
     QML_FILES
-        Main.qml
+        Base.qml
         RainbowGradient.qml
-        Rectan.qml
+        RectangleEg.qml
         MyRectangle.qml
+        AnchorsEg.qml
+        WindowEg.qml
+        DialogEg.qml
+        ItemEg.qml
+        RowLayoutEg.qml
+        ColumnLyaoutEg.qml
+        GridLayoutEg.qml
+        StackLayoutEg.qml
+        ButtonEg.qml
+        TextFieldEg.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

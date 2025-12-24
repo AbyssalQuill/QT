@@ -67,26 +67,114 @@ include CMakeFiles/module_appmain_aotstats_target.dir/progress.make
 
 CMakeFiles/module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 
-.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_Main_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_Base_qml.cpp.aotstats
 .rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats
-.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_RectangleEg_qml.cpp.aotstats
 .rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_WindowEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_DialogEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_ItemEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_ButtonEg_qml.cpp.aotstats
+.rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.aotstats
 .rcc/qmlcache/module_appmain.aotstats: .rcc/qmlcache/module_appmain.aotstatslist
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating .rcc/qmlcache/module_appmain.aotstats"
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlaotstats.exe aggregate C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/module_appmain.aotstatslist C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/module_appmain.aotstats
 
-.rcc/qmlcache/appmain_Main_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
-.rcc/qmlcache/appmain_Main_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/Main.qml
-.rcc/qmlcache/appmain_Main_qml.cpp: .qt/rcc/qmake_main.qrc
-.rcc/qmlcache/appmain_Main_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
-.rcc/qmlcache/appmain_Main_qml.cpp: main/appmain.qmltypes
-.rcc/qmlcache/appmain_Main_qml.cpp: main/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating .rcc/qmlcache/appmain_Main_qml.cpp, .rcc/qmlcache/appmain_Main_qml.cpp.aotstats"
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/AnchorsEg.qml
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating .rcc/qmlcache/appmain_AnchorsEg_qml.cpp, .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
-	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/Main.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Main_qml.cpp C:/Users/17367/Desktop/QT/basic/main/Main.qml
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/AnchorsEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_AnchorsEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/AnchorsEg.qml
 
-.rcc/qmlcache/appmain_Main_qml.cpp.aotstats: .rcc/qmlcache/appmain_Main_qml.cpp
-	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Main_qml.cpp.aotstats
+.rcc/qmlcache/appmain_AnchorsEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_AnchorsEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_Base_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_Base_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/Base.qml
+.rcc/qmlcache/appmain_Base_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_Base_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_Base_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_Base_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating .rcc/qmlcache/appmain_Base_qml.cpp, .rcc/qmlcache/appmain_Base_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/Base.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Base_qml.cpp C:/Users/17367/Desktop/QT/basic/main/Base.qml
+
+.rcc/qmlcache/appmain_Base_qml.cpp.aotstats: .rcc/qmlcache/appmain_Base_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Base_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/ButtonEg.qml
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating .rcc/qmlcache/appmain_ButtonEg_qml.cpp, .rcc/qmlcache/appmain_ButtonEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/ButtonEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_ButtonEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/ButtonEg.qml
+
+.rcc/qmlcache/appmain_ButtonEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_ButtonEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_ButtonEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/ColumnLyaoutEg.qml
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp, .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/ColumnLyaoutEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/ColumnLyaoutEg.qml
+
+.rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_ColumnLyaoutEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_DialogEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_DialogEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/DialogEg.qml
+.rcc/qmlcache/appmain_DialogEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_DialogEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_DialogEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_DialogEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Generating .rcc/qmlcache/appmain_DialogEg_qml.cpp, .rcc/qmlcache/appmain_DialogEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/DialogEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_DialogEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/DialogEg.qml
+
+.rcc/qmlcache/appmain_DialogEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_DialogEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_DialogEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/GridLayoutEg.qml
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Generating .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp, .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/GridLayoutEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/GridLayoutEg.qml
+
+.rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_GridLayoutEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_ItemEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_ItemEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/ItemEg.qml
+.rcc/qmlcache/appmain_ItemEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_ItemEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_ItemEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_ItemEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Generating .rcc/qmlcache/appmain_ItemEg_qml.cpp, .rcc/qmlcache/appmain_ItemEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/ItemEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_ItemEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/ItemEg.qml
+
+.rcc/qmlcache/appmain_ItemEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_ItemEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_ItemEg_qml.cpp.aotstats
 
 .rcc/qmlcache/appmain_MyRectangle_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
 .rcc/qmlcache/appmain_MyRectangle_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
@@ -94,7 +182,7 @@ CMakeFiles/module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 .rcc/qmlcache/appmain_MyRectangle_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
 .rcc/qmlcache/appmain_MyRectangle_qml.cpp: main/appmain.qmltypes
 .rcc/qmlcache/appmain_MyRectangle_qml.cpp: main/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating .rcc/qmlcache/appmain_MyRectangle_qml.cpp, .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Generating .rcc/qmlcache/appmain_MyRectangle_qml.cpp, .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/MyRectangle.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_MyRectangle_qml.cpp C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
 
@@ -107,34 +195,106 @@ CMakeFiles/module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 .rcc/qmlcache/appmain_RainbowGradient_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
 .rcc/qmlcache/appmain_RainbowGradient_qml.cpp: main/appmain.qmltypes
 .rcc/qmlcache/appmain_RainbowGradient_qml.cpp: main/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating .rcc/qmlcache/appmain_RainbowGradient_qml.cpp, .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Generating .rcc/qmlcache/appmain_RainbowGradient_qml.cpp, .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
 	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/RainbowGradient.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RainbowGradient_qml.cpp C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
 
 .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_RainbowGradient_qml.cpp.aotstats
 
-.rcc/qmlcache/appmain_Rectan_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
-.rcc/qmlcache/appmain_Rectan_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
-.rcc/qmlcache/appmain_Rectan_qml.cpp: .qt/rcc/qmake_main.qrc
-.rcc/qmlcache/appmain_Rectan_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
-.rcc/qmlcache/appmain_Rectan_qml.cpp: main/appmain.qmltypes
-.rcc/qmlcache/appmain_Rectan_qml.cpp: main/qmldir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating .rcc/qmlcache/appmain_Rectan_qml.cpp, .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats"
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/RectangleEg.qml
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Generating .rcc/qmlcache/appmain_RectangleEg_qml.cpp, .rcc/qmlcache/appmain_RectangleEg_qml.cpp.aotstats"
 	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
-	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/Rectan.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_Rectan_qml.cpp C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/RectangleEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RectangleEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/RectangleEg.qml
 
-.rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats: .rcc/qmlcache/appmain_Rectan_qml.cpp
-	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_Rectan_qml.cpp.aotstats
+.rcc/qmlcache/appmain_RectangleEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_RectangleEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_RectangleEg_qml.cpp.aotstats
 
-module_appmain_aotstats_target: .rcc/qmlcache/appmain_Main_qml.cpp
-module_appmain_aotstats_target: .rcc/qmlcache/appmain_Main_qml.cpp.aotstats
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/RowLayoutEg.qml
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Generating .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp, .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/RowLayoutEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/RowLayoutEg.qml
+
+.rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_RowLayoutEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/StackLayoutEg.qml
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Generating .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp, .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/StackLayoutEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/StackLayoutEg.qml
+
+.rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_StackLayoutEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/TextFieldEg.qml
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Generating .rcc/qmlcache/appmain_TextFieldEg_qml.cpp, .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/TextFieldEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_TextFieldEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/TextFieldEg.qml
+
+.rcc/qmlcache/appmain_TextFieldEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_TextFieldEg_qml.cpp.aotstats
+
+.rcc/qmlcache/appmain_WindowEg_qml.cpp: C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe
+.rcc/qmlcache/appmain_WindowEg_qml.cpp: C:/Users/17367/Desktop/QT/basic/main/WindowEg.qml
+.rcc/qmlcache/appmain_WindowEg_qml.cpp: .qt/rcc/qmake_main.qrc
+.rcc/qmlcache/appmain_WindowEg_qml.cpp: .qt/rcc/appmain_raw_qml_0.qrc
+.rcc/qmlcache/appmain_WindowEg_qml.cpp: main/appmain.qmltypes
+.rcc/qmlcache/appmain_WindowEg_qml.cpp: main/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Generating .rcc/qmlcache/appmain_WindowEg_qml.cpp, .rcc/qmlcache/appmain_WindowEg_qml.cpp.aotstats"
+	C:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache
+	call .qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/main/WindowEg.qml -I C:/Users/17367/Desktop/QT/basic/build -I C:/Qt/6.10.1/mingw_64/qml -i C:/Users/17367/Desktop/QT/basic/build/main/qmldir --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/qmake_main.qrc --resource C:/Users/17367/Desktop/QT/basic/build/.qt/rcc/appmain_raw_qml_0.qrc --dump-aot-stats --module-id=main(appmain) -o C:/Users/17367/Desktop/QT/basic/build/.rcc/qmlcache/appmain_WindowEg_qml.cpp C:/Users/17367/Desktop/QT/basic/main/WindowEg.qml
+
+.rcc/qmlcache/appmain_WindowEg_qml.cpp.aotstats: .rcc/qmlcache/appmain_WindowEg_qml.cpp
+	@$(CMAKE_COMMAND) -E touch_nocreate .rcc\qmlcache\appmain_WindowEg_qml.cpp.aotstats
+
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_AnchorsEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_Base_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_Base_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_ButtonEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_ButtonEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_ColumnLyaoutEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_DialogEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_DialogEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_GridLayoutEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_ItemEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_ItemEg_qml.cpp.aotstats
 module_appmain_aotstats_target: .rcc/qmlcache/appmain_MyRectangle_qml.cpp
 module_appmain_aotstats_target: .rcc/qmlcache/appmain_MyRectangle_qml.cpp.aotstats
 module_appmain_aotstats_target: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp
 module_appmain_aotstats_target: .rcc/qmlcache/appmain_RainbowGradient_qml.cpp.aotstats
-module_appmain_aotstats_target: .rcc/qmlcache/appmain_Rectan_qml.cpp
-module_appmain_aotstats_target: .rcc/qmlcache/appmain_Rectan_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_RectangleEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_RectangleEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_RowLayoutEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_StackLayoutEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_TextFieldEg_qml.cpp.aotstats
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_WindowEg_qml.cpp
+module_appmain_aotstats_target: .rcc/qmlcache/appmain_WindowEg_qml.cpp.aotstats
 module_appmain_aotstats_target: .rcc/qmlcache/module_appmain.aotstats
 module_appmain_aotstats_target: CMakeFiles/module_appmain_aotstats_target
 module_appmain_aotstats_target: CMakeFiles/module_appmain_aotstats_target.dir/build.make

@@ -70,10 +70,20 @@ CMakeFiles/appmain_qmlimportscan: .qt/qml_imports/appmain_build.cmake
 .qt/qml_imports/appmain_build.cmake: C:/Qt/6.10.1/mingw_64/bin/qmlimportscanner.exe
 .qt/qml_imports/appmain_build.cmake: .qt/rcc/qmake_main.qrc
 .qt/qml_imports/appmain_build.cmake: .qt/rcc/appmain_raw_qml_0.qrc
-.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/Main.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/Base.qml
 .qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml
-.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/Rectan.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/RectangleEg.qml
 .qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/AnchorsEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/WindowEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/DialogEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/ItemEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/RowLayoutEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/ColumnLyaoutEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/GridLayoutEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/StackLayoutEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/ButtonEg.qml
+.qt/qml_imports/appmain_build.cmake: C:/Users/17367/Desktop/QT/basic/main/TextFieldEg.qml
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\17367\Desktop\QT\basic\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running qmlimportscanner for appmain"
 	cd /d C:\Users\17367\Desktop\QT\basic\main && call C:\Users\17367\Desktop\QT\basic\build\.qt\bin\qt_setup_tool_path.bat C:/Qt/6.10.1/mingw_64/bin/qmlimportscanner.exe @C:/Users/17367/Desktop/QT/basic/build/.qt/qml_imports/appmain_build.rsp
 

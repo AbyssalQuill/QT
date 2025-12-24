@@ -7,66 +7,970 @@
                     "entries": [
                         {
                             "codegenResult": 0,
-                            "column": 21,
-                            "durationMicroseconds": 307,
-                            "functionName": "top",
-                            "line": 12,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
                             "column": 22,
-                            "durationMicroseconds": 78,
-                            "functionName": "left",
+                            "durationMicroseconds": 523,
+                            "functionName": "top",
                             "line": 13,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 30,
-                            "durationMicroseconds": 64,
-                            "functionName": "centerIn",
-                            "line": 28,
+                            "column": 23,
+                            "durationMicroseconds": 140,
+                            "functionName": "left",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 138,
+                            "functionName": "wrapMode",
+                            "line": 39,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 34,
-                            "durationMicroseconds": 48,
-                            "functionName": "centerIn",
+                            "durationMicroseconds": 104,
+                            "functionName": "horizontalAlignment",
                             "line": 40,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 21,
+                            "column": 32,
+                            "durationMicroseconds": 87,
+                            "functionName": "verticalAlignment",
+                            "line": 41,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 206,
+                            "functionName": "weight",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 210,
+                            "functionName": "capitalization",
+                            "line": 30,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 37,
+                            "durationMicroseconds": 153,
+                            "functionName": "hintingPreference",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 829,
+                            "functionName": "text",
+                            "line": 54,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 108,
+                            "functionName": "centerIn",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 197,
+                            "functionName": "onPositionChanged",
+                            "line": 63,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 469,
+                            "functionName": "fill",
+                            "line": 60,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 97,
+                            "functionName": "target",
+                            "line": 61,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 119,
+                            "functionName": "axis",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 586,
+                            "functionName": "text",
+                            "line": 82,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 100,
+                            "functionName": "centerIn",
+                            "line": 81,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 242,
+                            "functionName": "onPositionChanged",
+                            "line": 91,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 84,
+                            "functionName": "fill",
+                            "line": 88,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 111,
+                            "functionName": "target",
+                            "line": 89,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 106,
+                            "functionName": "axis",
+                            "line": 90,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 450,
+                            "functionName": "text",
+                            "line": 108,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 83,
+                            "functionName": "centerIn",
+                            "line": 107,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 198,
+                            "functionName": "onPositionChanged",
+                            "line": 117,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 80,
+                            "functionName": "fill",
+                            "line": 114,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 74,
+                            "functionName": "target",
+                            "line": 115,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
                             "durationMicroseconds": 99,
-                            "functionName": "top",
-                            "line": 50,
+                            "functionName": "axis",
+                            "line": 116,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 22,
+                            "durationMicroseconds": 161,
+                            "functionName": "top",
+                            "line": 127,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 215,
+                            "functionName": "horizontalCenter",
+                            "line": 128,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 377,
+                            "functionName": "text",
+                            "line": 146,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 81,
+                            "functionName": "centerIn",
+                            "line": 145,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 129,
+                            "functionName": "onPositionChanged",
+                            "line": 155,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 77,
+                            "functionName": "fill",
+                            "line": 152,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 72,
+                            "functionName": "target",
+                            "line": 153,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 98,
+                            "functionName": "axis",
+                            "line": 154,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 475,
+                            "functionName": "text",
+                            "line": 172,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 98,
+                            "functionName": "centerIn",
+                            "line": 171,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 152,
+                            "functionName": "onPositionChanged",
+                            "line": 181,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 82,
+                            "functionName": "fill",
+                            "line": 178,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
                             "durationMicroseconds": 73,
+                            "functionName": "target",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 95,
+                            "functionName": "axis",
+                            "line": 180,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 480,
+                            "functionName": "text",
+                            "line": 198,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 87,
+                            "functionName": "centerIn",
+                            "line": 197,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 248,
+                            "functionName": "onPositionChanged",
+                            "line": 207,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 80,
+                            "functionName": "fill",
+                            "line": 204,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 85,
+                            "functionName": "target",
+                            "line": 205,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 124,
+                            "functionName": "axis",
+                            "line": 206,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 496,
+                            "functionName": "text",
+                            "line": 228,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 82,
+                            "functionName": "centerIn",
+                            "line": 227,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 135,
                             "functionName": "left",
-                            "line": 51,
+                            "line": 232,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 252,
+                            "functionName": "onPositionChanged",
+                            "line": 238,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 81,
+                            "functionName": "fill",
+                            "line": 235,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 76,
+                            "functionName": "target",
+                            "line": 236,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 109,
+                            "functionName": "axis",
+                            "line": 237,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 132,
+                            "functionName": "left",
+                            "line": 249,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 41,
+                            "durationMicroseconds": 152,
+                            "functionName": "verticalCenter",
+                            "line": 251,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 452,
+                            "functionName": "text",
+                            "line": 257,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 82,
+                            "functionName": "centerIn",
+                            "line": 256,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 135,
+                            "functionName": "onPositionChanged",
+                            "line": 266,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 78,
+                            "functionName": "fill",
+                            "line": 263,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 141,
+                            "functionName": "target",
+                            "line": 264,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 111,
+                            "functionName": "axis",
+                            "line": 265,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 139,
+                            "functionName": "top",
+                            "line": 277,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 129,
+                            "functionName": "right",
+                            "line": 278,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 534,
+                            "functionName": "text",
+                            "line": 297,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 92,
+                            "functionName": "centerIn",
+                            "line": 296,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 147,
+                            "functionName": "onPositionChanged",
+                            "line": 306,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 82,
+                            "functionName": "fill",
+                            "line": 303,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 55,
+                            "durationMicroseconds": 74,
+                            "functionName": "target",
+                            "line": 304,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 98,
+                            "functionName": "axis",
+                            "line": 305,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 381,
+                            "functionName": "text",
+                            "line": 326,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 85,
                             "functionName": "centerIn",
-                            "line": 63,
+                            "line": 325,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 191,
+                            "functionName": "onPositionChanged",
+                            "line": 335,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 88,
+                            "functionName": "fill",
+                            "line": 332,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
                             "column": 30,
-                            "durationMicroseconds": 41,
+                            "durationMicroseconds": 78,
+                            "functionName": "target",
+                            "line": 333,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 243,
+                            "functionName": "axis",
+                            "line": 334,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 425,
+                            "functionName": "text",
+                            "line": 355,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 82,
                             "functionName": "centerIn",
-                            "line": 66,
+                            "line": 354,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 139,
+                            "functionName": "onPositionChanged",
+                            "line": 364,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 79,
+                            "functionName": "fill",
+                            "line": 361,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 72,
+                            "functionName": "target",
+                            "line": 362,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 94,
+                            "functionName": "axis",
+                            "line": 363,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 131,
+                            "functionName": "bottom",
+                            "line": 374,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 117,
+                            "functionName": "left",
+                            "line": 375,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 360,
+                            "functionName": "text",
+                            "line": 394,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 85,
+                            "functionName": "centerIn",
+                            "line": 393,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 909,
+                            "functionName": "onClicked",
+                            "line": 401,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 645,
+                            "functionName": "onDoubleClicked",
+                            "line": 409,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 135,
+                            "functionName": "onPositionChanged",
+                            "line": 417,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 84,
+                            "functionName": "fill",
+                            "line": 400,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 75,
+                            "functionName": "target",
+                            "line": 415,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 98,
+                            "functionName": "axis",
+                            "line": 416,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 507,
+                            "functionName": "text",
+                            "line": 435,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 88,
+                            "functionName": "centerIn",
+                            "line": 434,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 163,
+                            "functionName": "onClicked",
+                            "line": 442,
+                            "message": "Function expects 1 arguments, but 2 were provided"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 61,
+                            "functionName": "onClicked",
+                            "line": 442,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 191,
+                            "functionName": "onPositionChanged",
+                            "line": 449,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 83,
+                            "functionName": "fill",
+                            "line": 441,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 77,
+                            "functionName": "target",
+                            "line": 447,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 98,
+                            "functionName": "axis",
+                            "line": 448,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 368,
+                            "functionName": "text",
+                            "line": 472,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 82,
+                            "functionName": "centerIn",
+                            "line": 471,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 152,
+                            "functionName": "onPositionChanged",
+                            "line": 481,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 83,
+                            "functionName": "fill",
+                            "line": 478,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 84,
+                            "functionName": "target",
+                            "line": 479,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 100,
+                            "functionName": "axis",
+                            "line": 480,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 234,
+                            "functionName": "centerIn",
+                            "line": 491,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 19,
+                            "durationMicroseconds": 599,
+                            "functionName": "text",
+                            "line": 504,
+                            "message": "Cannot generate efficient code for call to untyped JavaScript function"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 143,
+                            "functionName": "top",
+                            "line": 502,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 138,
+                            "functionName": "horizontalCenter",
+                            "line": 503,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 152,
+                            "functionName": "centerIn",
+                            "line": 512,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 381,
+                            "functionName": "text",
+                            "line": 530,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 85,
+                            "functionName": "centerIn",
+                            "line": 529,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 115,
+                            "functionName": "onPositionChanged",
+                            "line": 539,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 81,
+                            "functionName": "fill",
+                            "line": 536,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 77,
+                            "functionName": "target",
+                            "line": 537,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 103,
+                            "functionName": "axis",
+                            "line": 538,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 812,
+                            "functionName": "onCompleted",
+                            "line": 547,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 112,
+                            "functionName": "onPositionChanged",
+                            "line": 559,
+                            "message": "Type conversion to QVariant does not have a property text for writing"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 86,
+                            "functionName": "fill",
+                            "line": 556,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 26,
+                            "durationMicroseconds": 78,
+                            "functionName": "target",
+                            "line": 557,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 98,
+                            "functionName": "axis",
+                            "line": 558,
                             "message": ""
                         }
                     ],

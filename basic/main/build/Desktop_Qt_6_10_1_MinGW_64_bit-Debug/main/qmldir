@@ -1,9 +1,19 @@
 module main
 typeinfo appmain.qmltypes
 prefer :/qt/qml/main/
-Main 254.0 Main.qml
+Base 254.0 Base.qml
 RainbowGradient 254.0 RainbowGradient.qml
-Rectan 254.0 Rectan.qml
+RectangleEg 254.0 RectangleEg.qml
 MyRectangle 254.0 MyRectangle.qml
+AnchorsEg 254.0 AnchorsEg.qml
+WindowEg 254.0 WindowEg.qml
+DialogEg 254.0 DialogEg.qml
+ItemEg 254.0 ItemEg.qml
+RowLayoutEg 254.0 RowLayoutEg.qml
+ColumnLyaoutEg 254.0 ColumnLyaoutEg.qml
+GridLayoutEg 254.0 GridLayoutEg.qml
+StackLayoutEg 254.0 StackLayoutEg.qml
+ButtonEg 254.0 ButtonEg.qml
+TextFieldEg 254.0 TextFieldEg.qml
 depends QtQuick
 
