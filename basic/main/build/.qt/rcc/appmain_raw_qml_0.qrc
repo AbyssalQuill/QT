@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/main/">
+    <file alias="Base.qml">C:/Users/17367/Desktop/QT/basic/main/Base.qml</file>
+    <file alias="RainbowGradient.qml">C:/Users/17367/Desktop/QT/basic/main/RainbowGradient.qml</file>
+    <file alias="Rectangle_eg.qml">C:/Users/17367/Desktop/QT/basic/main/Rectangle_eg.qml</file>
+    <file alias="MyRectangle.qml">C:/Users/17367/Desktop/QT/basic/main/MyRectangle.qml</file>
+    <file alias="AnchorsEg.qml">C:/Users/17367/Desktop/QT/basic/main/AnchorsEg.qml</file>
+  </qresource>
+</RCC>
+

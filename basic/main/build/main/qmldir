@@ -1,0 +1,10 @@
+module main
+typeinfo appmain.qmltypes
+prefer :/qt/qml/main/
+Base 254.0 Base.qml
+RainbowGradient 254.0 RainbowGradient.qml
+Rectangle_eg 254.0 Rectangle_eg.qml
+MyRectangle 254.0 MyRectangle.qml
+AnchorsEg 254.0 AnchorsEg.qml
+depends QtQuick
+
